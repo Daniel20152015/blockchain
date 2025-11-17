@@ -1,1 +1,0 @@
-To run, just do py blockchain.py
